@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+- 
+- 🔭 I’m currently working on JiangNan University.
+- 🌱 I’m currently learning Matlab, Python about how to modelize several problems and provide reasonable explaination.
+- 👯 I’m looking to collaborate on an enterprise that can meet more fun friends and fresh sightseeing.
+- 🤔 I’m looking for help with how to start my goal and the channels to learn from others.
+- 💬 Ask me about anything! I need anyone to questionize my future, like what i want to do in the future.
+- 📫 How to reach me:  E-mailing, or calling me
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **potts666/potts666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
