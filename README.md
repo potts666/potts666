@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with how to start my goal and the channels to learn from others.
 - 💬 Ask me about anything! I need anyone to questionize my future, like what i want to do in the future.
 - 📫 How to reach me:  E-mailing, or calling me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I am studying cs61a right now, the answer of lab and hws are pulled ahead.
 <!--
 **potts666/potts666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
